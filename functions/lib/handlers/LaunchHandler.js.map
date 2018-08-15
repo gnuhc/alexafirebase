@@ -1,0 +1,1 @@
+{"version":3,"file":"LaunchHandler.js","sourceRoot":"","sources":["../../src/handlers/LaunchHandler.ts"],"names":[],"mappings":";;AACA;IAEW,MAAM,CAAC,OAAO;QAEjB,OAAO;YACL,aAAa;gBACX,IAAI,CAAC,IAAI,CAAC,MAAM,EAAE,uBAAuB,CAAC,CAAC;YAC7C,CAAC;YACD,eAAe;gBACb,IAAI,CAAC,IAAI,CAAC,MAAM,EAAE,6BAA6B,CAAC,CAAC;YACnD,CAAC;SACF,CAAC;IACN,CAAC;CAEJ;AAdD,gCAcC"}
